@@ -2,6 +2,10 @@
 
 Basic Typescript Singleton class
 
+Create tsconfig.json with the following command
+
+tsc --init
+
 Changed tsconfig.json target to es6
 
 compile ts file with command in this folder.
